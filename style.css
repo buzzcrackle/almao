@@ -1,8 +1,5 @@
 body {
-	background-image: url("img/vaporwave.jpg");
-	background-position: top right;
-	background-attachment: fixed;
-	background-size: cover;
+	background-color: #66B266;
 	margin: 0;
 }
 div.centeredstuff {
@@ -20,7 +17,6 @@ h1.title {
 	letter-spacing: 15px;
 }
 h2 {
-	text-decoration: underline;
 	font-size: 300%;
 	font-family: 'Share Tech Mono';
 	letter-spacing: 15px;
@@ -97,21 +93,18 @@ div.box1 {
 	border-color: black;
 	border-style: solid;
 	border-width: 1px;
-	background-color: #6CFFB9;
-	margin-left: 10%;
+	text-align: center;
+	background-color: #ABD2A0;
+	margin: 10%;
 	padding: 1% 1%;
-	width: 30%;
 	font-size: 150%;
 }
 div.box {
+	padding-top: 5px;
 	border-color: black;
 	border-style: solid;
 	border-width: 1px;
-	background-color: #6CFFB9;
-	margin-top: 5%;
-	margin-left: 10%;
-	padding: 1% 1%;
-	width: 30%;
+	background-color: #181515;
 	text-align: center;
 }
 input {
