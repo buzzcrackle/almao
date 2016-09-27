@@ -2,20 +2,7 @@ body {
 	background-color: #66B266;
 	margin: 0;
 }
-div.centeredstuff {
-	background: transparent;
-	align-content: center;
-	align-items: center;
-	align-self: center;
-	text-align: center;
-}
-h1.title {
-	font-family: 'Share Tech Mono';
-	font-size: 200%;
-	color: #FF819C;
-	text-align: center;
-	letter-spacing: 15px;
-}
+
 h2 {
 	font-size: 300%;
 	font-family: 'Share Tech Mono';
@@ -80,15 +67,7 @@ img.pic {
 	float: left;
 	background: transparent;
 }
-img.c {
-	width: 40px;
-	height: 40px;
-	padding: 5px 5px;
-	border-radius: 50%;
-	top: 0;
-	float: left;
-	background: transparent;
-}
+
 div.box1 {
 	border-color: black;
 	border-style: solid;
